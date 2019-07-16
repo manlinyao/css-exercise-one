@@ -14,6 +14,7 @@ nav {
 section {
   margin: 0 auto;
   width: 60%;
+  padding-top: 90px;
 }
 /*for h1*/
 h1 {
@@ -23,7 +24,7 @@ h1 {
 /* for the example and h3*/
 .example, h3 {
   padding-top: 30px;
-  text-align: center
+  text-align: center;
 }
 /*for h3*/
 h3 {
@@ -35,4 +36,4 @@ h3 {
   height: 100px;
   margin: 10px 0;
   width: 100%;
-]
+}
